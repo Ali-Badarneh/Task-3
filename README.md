@@ -51,3 +51,9 @@
     Onion Rings
 </span>
 ![Mozzeralla Sticks](https://sweetsimplevegan.com/wp-content/uploads/2022/03/close_up_Vegan_beer_battered_crispy_onion_rings_sweet_simple_vegan_2.jpg)
+
+<span style="color:red;font-weight:700;font-size:27px">
+    My wireframe
+</span>
+
+![Mywireframe](./images/wireframe.png)
